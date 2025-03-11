@@ -1,20 +1,18 @@
 {
-  "name": "last3d",
+  
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://hemanth411-stack.github.io/last3d",
-<<<<<<< HEAD
-=======
+  
 
->>>>>>> 1cd64dc (Added missing assets)
+
+
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview",
+    "preview": "vite preview"
     
-  "deploy": "gh-pages -d dist"
     
   },
   "dependencies": {

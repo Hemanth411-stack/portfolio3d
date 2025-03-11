@@ -134,7 +134,7 @@ const Contact = () => {
               disabled={loading}
             >
               {loading ? 'Sending...' : 'Send Message'}
-              <img src="/assets/arrow-up.png" alt="arrow-up" className="w-4 h-4 sm:w-5 sm:h-5" />
+              <img src="./assets/arrow-up.png" alt="arrow-up" className="w-4 h-4 sm:w-5 sm:h-5" />
             </button>
           </form>
         </div>

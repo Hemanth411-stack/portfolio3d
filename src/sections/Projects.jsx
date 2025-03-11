@@ -64,11 +64,11 @@ const Projects = () => {
 
           <div className="flex justify-between items-center mt-7">
             <button className="w-10 h-10 p-3 cursor-pointer active:scale-95 transition-all rounded-full arrow-gradient" onClick={() => handleNavigation('previous')}>
-              <img src="/assets/left-arrow.png" alt="left arrow" />
+              <img src="./assets/left-arrow.png" alt="left arrow" />
             </button>
 
             <button className="w-10 h-10 p-3 cursor-pointer active:scale-95 transition-all rounded-full arrow-gradient" onClick={() => handleNavigation('next')}>
-              <img src="/assets/right-arrow.png" alt="right arrow" className="w-4 h-4" />
+              <img src="./assets/right-arrow.png" alt="right arrow" className="w-4 h-4" />
             </button>
           </div>
         </div>
