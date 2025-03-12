@@ -45,7 +45,7 @@ const Hero = () => {
           Hi, I am Hemanth <span className="waving-hand">👋</span>
         </p>
         <p className="text-center xl:text-6xl md:text-5xl sm:text-4xl text-3xl font-generalsans font-black !leading-normal bg-gradient-to-r from-[#BEC1CF] from-60% via-[#D5D8EA] via-60% to-[#D5D8EA] to-100% bg-clip-text text-transparent">
-          Building 
+          Building Products and Brands
         </p>
       </div>
 
